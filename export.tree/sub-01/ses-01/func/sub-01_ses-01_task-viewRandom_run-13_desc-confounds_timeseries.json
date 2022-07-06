@@ -1,0 +1,1337 @@
+{
+  "a_comp_cor_00": {
+    "CumulativeVarianceExplained": 0.0310355233,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 120.1350004905,
+    "VarianceExplained": 0.0310355233
+  },
+  "a_comp_cor_01": {
+    "CumulativeVarianceExplained": 0.0569923164,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 109.8665625201,
+    "VarianceExplained": 0.0259567931
+  },
+  "a_comp_cor_02": {
+    "CumulativeVarianceExplained": 0.077720325,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 98.1790461073,
+    "VarianceExplained": 0.0207280086
+  },
+  "a_comp_cor_03": {
+    "CumulativeVarianceExplained": 0.0973019276,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 95.4254320708,
+    "VarianceExplained": 0.0195816026
+  },
+  "a_comp_cor_04": {
+    "CumulativeVarianceExplained": 0.1147131234,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 89.9817258119,
+    "VarianceExplained": 0.0174111958
+  },
+  "a_comp_cor_05": {
+    "CumulativeVarianceExplained": 0.1288701325,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 81.1382757965,
+    "VarianceExplained": 0.0141570091
+  },
+  "a_comp_cor_06": {
+    "CumulativeVarianceExplained": 0.1420352115,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 78.2441275605,
+    "VarianceExplained": 0.0131650789
+  },
+  "a_comp_cor_07": {
+    "CumulativeVarianceExplained": 0.1544637618,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 76.0239193502,
+    "VarianceExplained": 0.0124285503
+  },
+  "a_comp_cor_08": {
+    "CumulativeVarianceExplained": 0.1656843507,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 72.2350278898,
+    "VarianceExplained": 0.0112205889
+  },
+  "a_comp_cor_09": {
+    "CumulativeVarianceExplained": 0.1760073438,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 69.2855766343,
+    "VarianceExplained": 0.010322993
+  },
+  "a_comp_cor_10": {
+    "CumulativeVarianceExplained": 0.1859527255,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 68.0065506595,
+    "VarianceExplained": 0.0099453818
+  },
+  "a_comp_cor_11": {
+    "CumulativeVarianceExplained": 0.1955141153,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 66.6807584417,
+    "VarianceExplained": 0.0095613898
+  },
+  "a_comp_cor_12": {
+    "CumulativeVarianceExplained": 0.2049259971,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 66.1573728112,
+    "VarianceExplained": 0.0094118818
+  },
+  "a_comp_cor_13": {
+    "CumulativeVarianceExplained": 0.2142965397,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 66.0119235713,
+    "VarianceExplained": 0.0093705426
+  },
+  "a_comp_cor_14": {
+    "CumulativeVarianceExplained": 0.2233591896,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 64.918371973,
+    "VarianceExplained": 0.0090626499
+  },
+  "a_comp_cor_15": {
+    "CumulativeVarianceExplained": 0.2323147605,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 64.5337135709,
+    "VarianceExplained": 0.0089555709
+  },
+  "a_comp_cor_16": {
+    "CumulativeVarianceExplained": 0.2411761767,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 64.1935784441,
+    "VarianceExplained": 0.0088614162
+  },
+  "a_comp_cor_17": {
+    "CumulativeVarianceExplained": 0.2499672795,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 63.9383902091,
+    "VarianceExplained": 0.0087911028
+  },
+  "a_comp_cor_18": {
+    "CumulativeVarianceExplained": 0.2585418772,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 63.1461524852,
+    "VarianceExplained": 0.0085745977
+  },
+  "a_comp_cor_19": {
+    "CumulativeVarianceExplained": 0.2670929405,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 63.0594357244,
+    "VarianceExplained": 0.0085510633
+  },
+  "a_comp_cor_20": {
+    "CumulativeVarianceExplained": 0.2755354189,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 62.6577791106,
+    "VarianceExplained": 0.0084424784
+  },
+  "a_comp_cor_21": {
+    "CumulativeVarianceExplained": 0.2838943451,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 62.3469573312,
+    "VarianceExplained": 0.0083589262
+  },
+  "a_comp_cor_22": {
+    "CumulativeVarianceExplained": 0.2922322125,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 62.2683719963,
+    "VarianceExplained": 0.0083378674
+  },
+  "a_comp_cor_23": {
+    "CumulativeVarianceExplained": 0.3005128181,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 62.0541838657,
+    "VarianceExplained": 0.0082806056
+  },
+  "a_comp_cor_24": {
+    "CumulativeVarianceExplained": 0.3087032902,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 61.7155332758,
+    "VarianceExplained": 0.0081904721
+  },
+  "a_comp_cor_25": {
+    "CumulativeVarianceExplained": 0.3167854297,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 61.3060292663,
+    "VarianceExplained": 0.0080821394
+  },
+  "a_comp_cor_26": {
+    "CumulativeVarianceExplained": 0.3248574508,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 61.267641567,
+    "VarianceExplained": 0.0080720211
+  },
+  "a_comp_cor_27": {
+    "CumulativeVarianceExplained": 0.3328963548,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 61.141830967,
+    "VarianceExplained": 0.008038904
+  },
+  "a_comp_cor_28": {
+    "CumulativeVarianceExplained": 0.3407871027,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 60.5757924969,
+    "VarianceExplained": 0.007890748
+  },
+  "a_comp_cor_29": {
+    "CumulativeVarianceExplained": 0.3486569996,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 60.4957046972,
+    "VarianceExplained": 0.0078698969
+  },
+  "a_comp_cor_30": {
+    "CumulativeVarianceExplained": 0.3564643867,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 60.2549700523,
+    "VarianceExplained": 0.0078073871
+  },
+  "a_comp_cor_31": {
+    "CumulativeVarianceExplained": 0.3642229891,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 60.0664223528,
+    "VarianceExplained": 0.0077586024
+  },
+  "a_comp_cor_32": {
+    "CumulativeVarianceExplained": 0.3719034817,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 59.7632982337,
+    "VarianceExplained": 0.0076804926
+  },
+  "a_comp_cor_33": {
+    "CumulativeVarianceExplained": 0.3795543814,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 59.6480530613,
+    "VarianceExplained": 0.0076508997
+  },
+  "a_comp_cor_34": {
+    "CumulativeVarianceExplained": 0.3871765439,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 59.535926968,
+    "VarianceExplained": 0.0076221625
+  },
+  "a_comp_cor_35": {
+    "CumulativeVarianceExplained": 0.3947379625,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 59.2982201877,
+    "VarianceExplained": 0.0075614186
+  },
+  "a_comp_cor_36": {
+    "CumulativeVarianceExplained": 0.4022502392,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 59.1052155358,
+    "VarianceExplained": 0.0075122767
+  },
+  "a_comp_cor_37": {
+    "CumulativeVarianceExplained": 0.4097274014,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 58.966916605,
+    "VarianceExplained": 0.0074771622
+  },
+  "a_comp_cor_38": {
+    "CumulativeVarianceExplained": 0.4171487163,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 58.7462905136,
+    "VarianceExplained": 0.0074213149
+  },
+  "a_comp_cor_39": {
+    "CumulativeVarianceExplained": 0.424529779,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 58.5867581711,
+    "VarianceExplained": 0.0073810628
+  },
+  "a_comp_cor_40": {
+    "CumulativeVarianceExplained": 0.4318705168,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 58.4265003625,
+    "VarianceExplained": 0.0073407378
+  },
+  "a_comp_cor_41": {
+    "CumulativeVarianceExplained": 0.4391270462,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 58.0904177531,
+    "VarianceExplained": 0.0072565295
+  },
+  "a_comp_cor_42": {
+    "CumulativeVarianceExplained": 0.4463157359,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 57.8182426896,
+    "VarianceExplained": 0.0071886897
+  },
+  "a_comp_cor_43": {
+    "CumulativeVarianceExplained": 0.4534824544,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 57.729818286,
+    "VarianceExplained": 0.0071667185
+  },
+  "a_comp_cor_44": {
+    "CumulativeVarianceExplained": 0.4605852145,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 57.4716401754,
+    "VarianceExplained": 0.0071027601
+  },
+  "a_comp_cor_45": {
+    "CumulativeVarianceExplained": 0.4676433301,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 57.2907359675,
+    "VarianceExplained": 0.0070581156
+  },
+  "a_comp_cor_46": {
+    "CumulativeVarianceExplained": 0.4746821931,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 57.2125462205,
+    "VarianceExplained": 0.007038863
+  },
+  "a_comp_cor_47": {
+    "CumulativeVarianceExplained": 0.4816780358,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 57.0374412673,
+    "VarianceExplained": 0.0069958426
+  },
+  "a_comp_cor_48": {
+    "CumulativeVarianceExplained": 0.4886699416,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 57.0213906068,
+    "VarianceExplained": 0.0069919059
+  },
+  "a_comp_cor_49": {
+    "CumulativeVarianceExplained": 0.4956132669,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 56.8229494982,
+    "VarianceExplained": 0.0069433252
+  },
+  "a_comp_cor_50": {
+    "CumulativeVarianceExplained": 0.5025224877,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 56.683225416,
+    "VarianceExplained": 0.0069092208
+  },
+  "aroma_motion_1": {
+    "CSFFraction": 0.04,
+    "EdgeFraction": 0.44,
+    "HighFrequencyContent": 0.04,
+    "MaximumRpCorrelation": 0.99,
+    "Method": {
+      "Name": "ICA-AROMA",
+      "Version": "0.4.5"
+    },
+    "ModelVarianceExplained": 0.2218193639,
+    "MotionNoise": true,
+    "TotalVarianceExplained": 0.1997179135
+  },
+  "aroma_motion_10": {
+    "CSFFraction": 0.0,
+    "EdgeFraction": 0.51,
+    "HighFrequencyContent": 0.1,
+    "MaximumRpCorrelation": 0.28,
+    "Method": {
+      "Name": "ICA-AROMA",
+      "Version": "0.4.5"
+    },
+    "ModelVarianceExplained": 0.0339696498,
+    "MotionNoise": false,
+    "TotalVarianceExplained": 0.0305850106
+  },
+  "aroma_motion_11": {
+    "CSFFraction": 0.0,
+    "EdgeFraction": 0.45,
+    "HighFrequencyContent": 0.1,
+    "MaximumRpCorrelation": 0.3,
+    "Method": {
+      "Name": "ICA-AROMA",
+      "Version": "0.4.5"
+    },
+    "ModelVarianceExplained": 0.0333788656,
+    "MotionNoise": false,
+    "TotalVarianceExplained": 0.0300530904
+  },
+  "aroma_motion_12": {
+    "CSFFraction": 0.0,
+    "EdgeFraction": 0.29,
+    "HighFrequencyContent": 0.29,
+    "MaximumRpCorrelation": 0.42,
+    "Method": {
+      "Name": "ICA-AROMA",
+      "Version": "0.4.5"
+    },
+    "ModelVarianceExplained": 0.0319213272,
+    "MotionNoise": false,
+    "TotalVarianceExplained": 0.0287407769
+  },
+  "aroma_motion_13": {
+    "CSFFraction": 0.0,
+    "EdgeFraction": 0.29,
+    "HighFrequencyContent": 0.11,
+    "MaximumRpCorrelation": 0.72,
+    "Method": {
+      "Name": "ICA-AROMA",
+      "Version": "0.4.5"
+    },
+    "ModelVarianceExplained": 0.0302376062,
+    "MotionNoise": false,
+    "TotalVarianceExplained": 0.0272248172
+  },
+  "aroma_motion_14": {
+    "CSFFraction": 0.01,
+    "EdgeFraction": 0.36,
+    "HighFrequencyContent": 0.06,
+    "MaximumRpCorrelation": 0.31,
+    "Method": {
+      "Name": "ICA-AROMA",
+      "Version": "0.4.5"
+    },
+    "ModelVarianceExplained": 0.0260483286,
+    "MotionNoise": false,
+    "TotalVarianceExplained": 0.0234529472
+  },
+  "aroma_motion_15": {
+    "CSFFraction": 0.06,
+    "EdgeFraction": 0.49,
+    "HighFrequencyContent": 0.6,
+    "MaximumRpCorrelation": 0.47,
+    "Method": {
+      "Name": "ICA-AROMA",
+      "Version": "0.4.5"
+    },
+    "ModelVarianceExplained": 0.0258404752,
+    "MotionNoise": true,
+    "TotalVarianceExplained": 0.0232658037
+  },
+  "aroma_motion_16": {
+    "CSFFraction": 0.11,
+    "EdgeFraction": 0.45,
+    "HighFrequencyContent": 0.32,
+    "MaximumRpCorrelation": 0.55,
+    "Method": {
+      "Name": "ICA-AROMA",
+      "Version": "0.4.5"
+    },
+    "ModelVarianceExplained": 0.0235573646,
+    "MotionNoise": true,
+    "TotalVarianceExplained": 0.0212101758
+  },
+  "aroma_motion_17": {
+    "CSFFraction": 0.06,
+    "EdgeFraction": 0.41,
+    "HighFrequencyContent": 0.06,
+    "MaximumRpCorrelation": 0.45,
+    "Method": {
+      "Name": "ICA-AROMA",
+      "Version": "0.4.5"
+    },
+    "ModelVarianceExplained": 0.02352365,
+    "MotionNoise": false,
+    "TotalVarianceExplained": 0.0211798205
+  },
+  "aroma_motion_18": {
+    "CSFFraction": 0.02,
+    "EdgeFraction": 0.63,
+    "HighFrequencyContent": 0.14,
+    "MaximumRpCorrelation": 0.42,
+    "Method": {
+      "Name": "ICA-AROMA",
+      "Version": "0.4.5"
+    },
+    "ModelVarianceExplained": 0.0232873778,
+    "MotionNoise": false,
+    "TotalVarianceExplained": 0.0209670897
+  },
+  "aroma_motion_19": {
+    "CSFFraction": 0.01,
+    "EdgeFraction": 0.36,
+    "HighFrequencyContent": 0.11,
+    "MaximumRpCorrelation": 0.65,
+    "Method": {
+      "Name": "ICA-AROMA",
+      "Version": "0.4.5"
+    },
+    "ModelVarianceExplained": 0.0225632133,
+    "MotionNoise": false,
+    "TotalVarianceExplained": 0.0203150789
+  },
+  "aroma_motion_2": {
+    "CSFFraction": 0.04,
+    "EdgeFraction": 0.49,
+    "HighFrequencyContent": 0.04,
+    "MaximumRpCorrelation": 0.96,
+    "Method": {
+      "Name": "ICA-AROMA",
+      "Version": "0.4.5"
+    },
+    "ModelVarianceExplained": 0.1067826998,
+    "MotionNoise": true,
+    "TotalVarianceExplained": 0.0961431754
+  },
+  "aroma_motion_20": {
+    "CSFFraction": 0.06,
+    "EdgeFraction": 0.33,
+    "HighFrequencyContent": 0.33,
+    "MaximumRpCorrelation": 0.34,
+    "Method": {
+      "Name": "ICA-AROMA",
+      "Version": "0.4.5"
+    },
+    "ModelVarianceExplained": 0.0219670222,
+    "MotionNoise": false,
+    "TotalVarianceExplained": 0.0197782906
+  },
+  "aroma_motion_21": {
+    "CSFFraction": 0.33,
+    "EdgeFraction": 0.54,
+    "HighFrequencyContent": 0.26,
+    "MaximumRpCorrelation": 0.48,
+    "Method": {
+      "Name": "ICA-AROMA",
+      "Version": "0.4.5"
+    },
+    "ModelVarianceExplained": 0.0192482375,
+    "MotionNoise": true,
+    "TotalVarianceExplained": 0.0173303979
+  },
+  "aroma_motion_22": {
+    "CSFFraction": 0.02,
+    "EdgeFraction": 0.4,
+    "HighFrequencyContent": 0.17,
+    "MaximumRpCorrelation": 0.26,
+    "Method": {
+      "Name": "ICA-AROMA",
+      "Version": "0.4.5"
+    },
+    "ModelVarianceExplained": 0.0185823231,
+    "MotionNoise": false,
+    "TotalVarianceExplained": 0.0167308333
+  },
+  "aroma_motion_3": {
+    "CSFFraction": 0.03,
+    "EdgeFraction": 0.57,
+    "HighFrequencyContent": 0.03,
+    "MaximumRpCorrelation": 0.98,
+    "Method": {
+      "Name": "ICA-AROMA",
+      "Version": "0.4.5"
+    },
+    "ModelVarianceExplained": 0.1034133865,
+    "MotionNoise": true,
+    "TotalVarianceExplained": 0.0931095709
+  },
+  "aroma_motion_4": {
+    "CSFFraction": 0.05,
+    "EdgeFraction": 0.58,
+    "HighFrequencyContent": 0.07,
+    "MaximumRpCorrelation": 0.58,
+    "Method": {
+      "Name": "ICA-AROMA",
+      "Version": "0.4.5"
+    },
+    "ModelVarianceExplained": 0.0514951312,
+    "MotionNoise": true,
+    "TotalVarianceExplained": 0.0463643028
+  },
+  "aroma_motion_5": {
+    "CSFFraction": 0.2,
+    "EdgeFraction": 0.57,
+    "HighFrequencyContent": 0.6,
+    "MaximumRpCorrelation": 0.82,
+    "Method": {
+      "Name": "ICA-AROMA",
+      "Version": "0.4.5"
+    },
+    "ModelVarianceExplained": 0.0420482513,
+    "MotionNoise": true,
+    "TotalVarianceExplained": 0.0378586832
+  },
+  "aroma_motion_6": {
+    "CSFFraction": 0.01,
+    "EdgeFraction": 0.55,
+    "HighFrequencyContent": 0.08,
+    "MaximumRpCorrelation": 0.83,
+    "Method": {
+      "Name": "ICA-AROMA",
+      "Version": "0.4.5"
+    },
+    "ModelVarianceExplained": 0.0364571277,
+    "MotionNoise": true,
+    "TotalVarianceExplained": 0.0328246432
+  },
+  "aroma_motion_7": {
+    "CSFFraction": 0.01,
+    "EdgeFraction": 0.27,
+    "HighFrequencyContent": 0.04,
+    "MaximumRpCorrelation": 0.37,
+    "Method": {
+      "Name": "ICA-AROMA",
+      "Version": "0.4.5"
+    },
+    "ModelVarianceExplained": 0.0355755897,
+    "MotionNoise": false,
+    "TotalVarianceExplained": 0.0320309391
+  },
+  "aroma_motion_8": {
+    "CSFFraction": 0.0,
+    "EdgeFraction": 0.36,
+    "HighFrequencyContent": 0.12,
+    "MaximumRpCorrelation": 0.24,
+    "Method": {
+      "Name": "ICA-AROMA",
+      "Version": "0.4.5"
+    },
+    "ModelVarianceExplained": 0.0342558714,
+    "MotionNoise": false,
+    "TotalVarianceExplained": 0.0308427138
+  },
+  "aroma_motion_9": {
+    "CSFFraction": 0.0,
+    "EdgeFraction": 0.28,
+    "HighFrequencyContent": 0.03,
+    "MaximumRpCorrelation": 0.61,
+    "Method": {
+      "Name": "ICA-AROMA",
+      "Version": "0.4.5"
+    },
+    "ModelVarianceExplained": 0.0340271375,
+    "MotionNoise": false,
+    "TotalVarianceExplained": 0.0306367703
+  },
+  "c_comp_cor_00": {
+    "CumulativeVarianceExplained": 0.1321706376,
+    "Mask": "CSF",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 86.0507280792,
+    "VarianceExplained": 0.1321706376
+  },
+  "c_comp_cor_01": {
+    "CumulativeVarianceExplained": 0.1870667046,
+    "Mask": "CSF",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 55.4571659734,
+    "VarianceExplained": 0.054896067
+  },
+  "c_comp_cor_02": {
+    "CumulativeVarianceExplained": 0.2247676084,
+    "Mask": "CSF",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 45.9581922083,
+    "VarianceExplained": 0.0377009037
+  },
+  "c_comp_cor_03": {
+    "CumulativeVarianceExplained": 0.2591822843,
+    "Mask": "CSF",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 43.9095411781,
+    "VarianceExplained": 0.034414676
+  },
+  "c_comp_cor_04": {
+    "CumulativeVarianceExplained": 0.288821037,
+    "Mask": "CSF",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 40.7490058476,
+    "VarianceExplained": 0.0296387526
+  },
+  "c_comp_cor_05": {
+    "CumulativeVarianceExplained": 0.3129009428,
+    "Mask": "CSF",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 36.7294520236,
+    "VarianceExplained": 0.0240799059
+  },
+  "c_comp_cor_06": {
+    "CumulativeVarianceExplained": 0.3361616529,
+    "Mask": "CSF",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 36.099280024,
+    "VarianceExplained": 0.02326071
+  },
+  "c_comp_cor_07": {
+    "CumulativeVarianceExplained": 0.3557393221,
+    "Mask": "CSF",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 33.1182629807,
+    "VarianceExplained": 0.0195776693
+  },
+  "c_comp_cor_08": {
+    "CumulativeVarianceExplained": 0.3726699851,
+    "Mask": "CSF",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 30.7981080569,
+    "VarianceExplained": 0.0169306629
+  },
+  "c_comp_cor_09": {
+    "CumulativeVarianceExplained": 0.3886854855,
+    "Mask": "CSF",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 29.954171607,
+    "VarianceExplained": 0.0160155004
+  },
+  "c_comp_cor_10": {
+    "CumulativeVarianceExplained": 0.4033206125,
+    "Mask": "CSF",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 28.6342165491,
+    "VarianceExplained": 0.014635127
+  },
+  "c_comp_cor_11": {
+    "CumulativeVarianceExplained": 0.4164932896,
+    "Mask": "CSF",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 27.1658988766,
+    "VarianceExplained": 0.0131726771
+  },
+  "c_comp_cor_12": {
+    "CumulativeVarianceExplained": 0.4289923186,
+    "Mask": "CSF",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 26.4621540662,
+    "VarianceExplained": 0.0124990289
+  },
+  "c_comp_cor_13": {
+    "CumulativeVarianceExplained": 0.4411533588,
+    "Mask": "CSF",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 26.1019178275,
+    "VarianceExplained": 0.0121610402
+  },
+  "c_comp_cor_14": {
+    "CumulativeVarianceExplained": 0.4531244678,
+    "Mask": "CSF",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 25.8972858393,
+    "VarianceExplained": 0.0119711091
+  },
+  "c_comp_cor_15": {
+    "CumulativeVarianceExplained": 0.4643300565,
+    "Mask": "CSF",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 25.0555762614,
+    "VarianceExplained": 0.0112055887
+  },
+  "c_comp_cor_16": {
+    "CumulativeVarianceExplained": 0.4753532568,
+    "Mask": "CSF",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 24.8508303754,
+    "VarianceExplained": 0.0110232002
+  },
+  "c_comp_cor_17": {
+    "CumulativeVarianceExplained": 0.4857385115,
+    "Mask": "CSF",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 24.1210180067,
+    "VarianceExplained": 0.0103852547
+  },
+  "c_comp_cor_18": {
+    "CumulativeVarianceExplained": 0.4959271902,
+    "Mask": "CSF",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 23.8916416202,
+    "VarianceExplained": 0.0101886788
+  },
+  "c_comp_cor_19": {
+    "CumulativeVarianceExplained": 0.5060583186,
+    "Mask": "CSF",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 23.8240704707,
+    "VarianceExplained": 0.0101311283
+  },
+  "csf": {
+    "Method": "Mean"
+  },
+  "csf_wm": {
+    "Method": "Mean"
+  },
+  "global_signal": {
+    "Method": "Mean"
+  },
+  "t_comp_cor_00": {
+    "CumulativeVarianceExplained": 0.1664747351,
+    "Method": "tCompCor",
+    "Retained": true,
+    "SingularValue": 158.9843561469,
+    "VarianceExplained": 0.1664747351
+  },
+  "t_comp_cor_01": {
+    "CumulativeVarianceExplained": 0.2727604304,
+    "Method": "tCompCor",
+    "Retained": true,
+    "SingularValue": 127.0333161475,
+    "VarianceExplained": 0.1062856954
+  },
+  "t_comp_cor_02": {
+    "CumulativeVarianceExplained": 0.3556108397,
+    "Method": "tCompCor",
+    "Retained": true,
+    "SingularValue": 112.1573024258,
+    "VarianceExplained": 0.0828504093
+  },
+  "t_comp_cor_03": {
+    "CumulativeVarianceExplained": 0.4116068865,
+    "Method": "tCompCor",
+    "Retained": true,
+    "SingularValue": 92.2059422074,
+    "VarianceExplained": 0.0559960468
+  },
+  "t_comp_cor_04": {
+    "CumulativeVarianceExplained": 0.4613762164,
+    "Method": "tCompCor",
+    "Retained": true,
+    "SingularValue": 86.9282873366,
+    "VarianceExplained": 0.04976933
+  },
+  "t_comp_cor_05": {
+    "CumulativeVarianceExplained": 0.5025836468,
+    "Method": "tCompCor",
+    "Retained": true,
+    "SingularValue": 79.0984536255,
+    "VarianceExplained": 0.0412074304
+  },
+  "tcompcor": {
+    "Method": "Mean"
+  },
+  "w_comp_cor_00": {
+    "CumulativeVarianceExplained": 0.0238183804,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 81.0279985288,
+    "VarianceExplained": 0.0238183804
+  },
+  "w_comp_cor_01": {
+    "CumulativeVarianceExplained": 0.0410164067,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 68.8522763048,
+    "VarianceExplained": 0.0171980263
+  },
+  "w_comp_cor_02": {
+    "CumulativeVarianceExplained": 0.0540816874,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 60.0120374442,
+    "VarianceExplained": 0.0130652807
+  },
+  "w_comp_cor_03": {
+    "CumulativeVarianceExplained": 0.0665682368,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 58.6678560982,
+    "VarianceExplained": 0.0124865494
+  },
+  "w_comp_cor_04": {
+    "CumulativeVarianceExplained": 0.078110344,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 56.4055125266,
+    "VarianceExplained": 0.0115421072
+  },
+  "w_comp_cor_05": {
+    "CumulativeVarianceExplained": 0.0891971307,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 55.2817580262,
+    "VarianceExplained": 0.0110867868
+  },
+  "w_comp_cor_06": {
+    "CumulativeVarianceExplained": 0.10011283,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 54.8535550546,
+    "VarianceExplained": 0.0109156993
+  },
+  "w_comp_cor_07": {
+    "CumulativeVarianceExplained": 0.1108124139,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 54.3078291421,
+    "VarianceExplained": 0.0106995839
+  },
+  "w_comp_cor_08": {
+    "CumulativeVarianceExplained": 0.1213520477,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 53.9003714539,
+    "VarianceExplained": 0.0105396337
+  },
+  "w_comp_cor_09": {
+    "CumulativeVarianceExplained": 0.131744804,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 53.5234833972,
+    "VarianceExplained": 0.0103927563
+  },
+  "w_comp_cor_10": {
+    "CumulativeVarianceExplained": 0.1419585853,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 53.0606145412,
+    "VarianceExplained": 0.0102137813
+  },
+  "w_comp_cor_11": {
+    "CumulativeVarianceExplained": 0.1521026716,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 52.8792719388,
+    "VarianceExplained": 0.0101440863
+  },
+  "w_comp_cor_12": {
+    "CumulativeVarianceExplained": 0.1620910427,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 52.4718446942,
+    "VarianceExplained": 0.0099883711
+  },
+  "w_comp_cor_13": {
+    "CumulativeVarianceExplained": 0.1720347288,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 52.3543415663,
+    "VarianceExplained": 0.0099436861
+  },
+  "w_comp_cor_14": {
+    "CumulativeVarianceExplained": 0.181885457,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 52.1090513792,
+    "VarianceExplained": 0.0098507282
+  },
+  "w_comp_cor_15": {
+    "CumulativeVarianceExplained": 0.1916473145,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 51.8734614843,
+    "VarianceExplained": 0.0097618575
+  },
+  "w_comp_cor_16": {
+    "CumulativeVarianceExplained": 0.2012900216,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 51.5559135113,
+    "VarianceExplained": 0.0096427071
+  },
+  "w_comp_cor_17": {
+    "CumulativeVarianceExplained": 0.2108376576,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 51.3011292152,
+    "VarianceExplained": 0.009547636
+  },
+  "w_comp_cor_18": {
+    "CumulativeVarianceExplained": 0.2203313438,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 51.1559831639,
+    "VarianceExplained": 0.0094936862
+  },
+  "w_comp_cor_19": {
+    "CumulativeVarianceExplained": 0.2297055642,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 50.8330978124,
+    "VarianceExplained": 0.0093742203
+  },
+  "w_comp_cor_20": {
+    "CumulativeVarianceExplained": 0.2390158028,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 50.6593257954,
+    "VarianceExplained": 0.0093102387
+  },
+  "w_comp_cor_21": {
+    "CumulativeVarianceExplained": 0.2483012219,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 50.5917559675,
+    "VarianceExplained": 0.0092854191
+  },
+  "w_comp_cor_22": {
+    "CumulativeVarianceExplained": 0.2574838561,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 50.3109640321,
+    "VarianceExplained": 0.0091826341
+  },
+  "w_comp_cor_23": {
+    "CumulativeVarianceExplained": 0.2665896274,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 50.09995872,
+    "VarianceExplained": 0.0091057713
+  },
+  "w_comp_cor_24": {
+    "CumulativeVarianceExplained": 0.2756616069,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 50.0069110133,
+    "VarianceExplained": 0.0090719795
+  },
+  "w_comp_cor_25": {
+    "CumulativeVarianceExplained": 0.2846023953,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 49.6440159965,
+    "VarianceExplained": 0.0089407884
+  },
+  "w_comp_cor_26": {
+    "CumulativeVarianceExplained": 0.2934644752,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 49.4250170605,
+    "VarianceExplained": 0.0088620799
+  },
+  "w_comp_cor_27": {
+    "CumulativeVarianceExplained": 0.302281765,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 49.2999589768,
+    "VarianceExplained": 0.0088172899
+  },
+  "w_comp_cor_28": {
+    "CumulativeVarianceExplained": 0.3109952468,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 49.0088895678,
+    "VarianceExplained": 0.0087134818
+  },
+  "w_comp_cor_29": {
+    "CumulativeVarianceExplained": 0.3196823689,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 48.9347033822,
+    "VarianceExplained": 0.0086871221
+  },
+  "w_comp_cor_30": {
+    "CumulativeVarianceExplained": 0.3283054344,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 48.7539539213,
+    "VarianceExplained": 0.0086230656
+  },
+  "w_comp_cor_31": {
+    "CumulativeVarianceExplained": 0.3368438411,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 48.5140369722,
+    "VarianceExplained": 0.0085384066
+  },
+  "w_comp_cor_32": {
+    "CumulativeVarianceExplained": 0.3453654753,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 48.4663643952,
+    "VarianceExplained": 0.0085216342
+  },
+  "w_comp_cor_33": {
+    "CumulativeVarianceExplained": 0.3538123991,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 48.2534408381,
+    "VarianceExplained": 0.0084469238
+  },
+  "w_comp_cor_34": {
+    "CumulativeVarianceExplained": 0.3621893612,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 48.0531955172,
+    "VarianceExplained": 0.0083769621
+  },
+  "w_comp_cor_35": {
+    "CumulativeVarianceExplained": 0.3705009877,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 47.865434782,
+    "VarianceExplained": 0.0083116265
+  },
+  "w_comp_cor_36": {
+    "CumulativeVarianceExplained": 0.3787761484,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 47.7603187726,
+    "VarianceExplained": 0.0082751607
+  },
+  "w_comp_cor_37": {
+    "CumulativeVarianceExplained": 0.3870106936,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 47.6429676721,
+    "VarianceExplained": 0.0082345451
+  },
+  "w_comp_cor_38": {
+    "CumulativeVarianceExplained": 0.3951677103,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 47.4181575946,
+    "VarianceExplained": 0.0081570168
+  },
+  "w_comp_cor_39": {
+    "CumulativeVarianceExplained": 0.4032458104,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 47.1882218567,
+    "VarianceExplained": 0.0080781001
+  },
+  "w_comp_cor_40": {
+    "CumulativeVarianceExplained": 0.4112772166,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 47.0516430412,
+    "VarianceExplained": 0.0080314062
+  },
+  "w_comp_cor_41": {
+    "CumulativeVarianceExplained": 0.4192455191,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 46.866433584,
+    "VarianceExplained": 0.0079683025
+  },
+  "w_comp_cor_42": {
+    "CumulativeVarianceExplained": 0.4271658238,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 46.7250681107,
+    "VarianceExplained": 0.0079203047
+  },
+  "w_comp_cor_43": {
+    "CumulativeVarianceExplained": 0.4350336014,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 46.5698710467,
+    "VarianceExplained": 0.0078677776
+  },
+  "w_comp_cor_44": {
+    "CumulativeVarianceExplained": 0.442842169,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 46.3943062765,
+    "VarianceExplained": 0.0078085676
+  },
+  "w_comp_cor_45": {
+    "CumulativeVarianceExplained": 0.4506238899,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 46.3144833592,
+    "VarianceExplained": 0.0077817209
+  },
+  "w_comp_cor_46": {
+    "CumulativeVarianceExplained": 0.4583524138,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 46.1559056709,
+    "VarianceExplained": 0.007728524
+  },
+  "w_comp_cor_47": {
+    "CumulativeVarianceExplained": 0.4660248803,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 45.9882090385,
+    "VarianceExplained": 0.0076724664
+  },
+  "w_comp_cor_48": {
+    "CumulativeVarianceExplained": 0.473590759,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 45.6676523266,
+    "VarianceExplained": 0.0075658787
+  },
+  "w_comp_cor_49": {
+    "CumulativeVarianceExplained": 0.4811404296,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 45.6187100579,
+    "VarianceExplained": 0.0075496706
+  },
+  "w_comp_cor_50": {
+    "CumulativeVarianceExplained": 0.4886111008,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 45.3794061129,
+    "VarianceExplained": 0.0074706711
+  },
+  "w_comp_cor_51": {
+    "CumulativeVarianceExplained": 0.4960209278,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 45.1942344196,
+    "VarianceExplained": 0.007409827
+  },
+  "w_comp_cor_52": {
+    "CumulativeVarianceExplained": 0.503410167,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 45.1314057661,
+    "VarianceExplained": 0.0073892392
+  },
+  "white_matter": {
+    "Method": "Mean"
+  }
+}
